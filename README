@@ -31,3 +31,15 @@ kTa.py:
 
   DESCRIPTION
     Kills processes with a name that contains at least one search term.
+
+
+analysis.py:
+  NAME
+    analysis
+
+    SIZE
+
+    SYNOPSIS
+
+    DESCRIPTION
+	  Convert binary float files to ascii and compute basic statistics.
